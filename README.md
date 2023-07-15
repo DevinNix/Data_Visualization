@@ -1,2 +1,2 @@
 # Data_Visualization
-# Data_Visualization
+This project serves as a showcase of programming proficiency in Python, utilizing the powerful libraries of Matplotlib, Pandas, and Jupyter Notebooks for data visualization. The primary focus is on displaying preprocessed data through various graphs and charts, highlighting the capabilities of these tools. By leveraging Pandas for data manipulation and Matplotlib for visualization, the project demonstrates proficiency in Python programming while presenting data in an engaging and visually appealing manner. The Jupyter Notebook format enables seamless integration of code, explanations, and visualizations, further exemplifying the ability to effectively showcase and communicate insights using these tools.
